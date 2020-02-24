@@ -1,6 +1,6 @@
 PROJECT:
    Merge mulitple text files in sorted order by considering the fact that
-   main memeory (RAM) is enough to keep large text files in the memory.
+   main memeory (RAM) is not enough to keep large text files in the memory.
 INPUT:
    There are multiple text files. Assume that these files are lexicographically
    sorted.
