@@ -16,7 +16,7 @@ OUTPUT:
    will not be considered as duplicate. example: "abc is ABC" is not same
    as " abc is ABC   " - note space.
  - Exception: Line "ABC is abc" and "abc is ABC" will be considered
-   duplicate because no trail or begining space.
+   duplicate because no trailing or begining space.
  - It is assumed that each input file is sorted lexicographically.
    If it is not sorted, the program should complain and exit gracefully.
  - The code should handle the case when input files are very large and 
