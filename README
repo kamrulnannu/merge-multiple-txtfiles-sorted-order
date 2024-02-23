@@ -39,7 +39,7 @@ TEST
          argument. Default value is 5. User provided value should be greater
          than 2 or more. Due to memory concern, the program
          will read user given lines from each input file. When these lines
-         in memory are written in out file, it will read next batch from
+         in memory are written in out file and cleared from memory, it will read next batch from
          input files and continue until processed all input files.
          Example:
            - There are 5 input files
